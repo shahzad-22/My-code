@@ -1,0 +1,129 @@
+
+.bg{
+	background-color: #F0F0F0;
+}
+.litt{
+	background-image: url('images/pattern-background-desktop.svg');
+	background-color: #DFE8FF;
+	height: 870px;
+	width: 75%;
+	margin: 10% 10% 5% 10%;
+	align-self: center;
+	box-shadow: 5px 5px 5px 5px lightgrey ;
+	background-repeat: no-repeat;
+	 
+	
+	
+	
+}
+
+.st{
+	align-self: center;
+	
+}
+.set{
+	
+	width: 74%;
+	top: 29%;
+	left: 10.5%;
+	position: absolute;
+	z-index: 1;
+	
+	
+}
+.design{
+	align-self: center;
+	width: 34.3%;
+	height: 100%;
+	background-color:white;
+	z-index: 2;
+	position: absolute;
+	margin: 10% 10% 10% 20%;
+	border-radius: 25px ;
+}
+.hero{
+	border-radius: 25px 25px 0px 0px;
+	width: 100%;
+}
+.txt{
+	margin-top: 45px;
+	font-size:12pt;
+	font-family:  sans-serif;
+	text-align: center;
+	color: black;
+}
+.pra{
+	text-align: center;
+	color:grey;
+	font-family:  sans-serif;
+	font-size: 15pt;
+	line-height: 27.5px;
+}
+.smbox{
+	display:flex;
+	justify-content: space-between;
+	background-color:hsl(225, 100%, 98%);
+	padding:20px;
+	margin: 30px;
+	border-radius: 20px;
+	height: 50PX;
+}
+.img{
+	   width: 35px;
+	   height: 45px;
+	   margin: 10px;
+	   border-radius: 100px;
+	   color: purple;
+		padding: 20px;
+   
+}
+
+.smbox h2{
+	font-family: 'Red Hat Display';
+	text-align: center;
+	
+	margin: 0px 0px 0px 0px;
+}
+.smbox p{
+	color: #A2A7B5;
+	text-align: center;
+	font-family: sans-serif;
+	margin: 2px 0px 0px 0px;
+}
+.offer {
+	text-align: center;
+margin-top: 10px;
+font-size: 20px;
+
+}
+.pricing{
+	text-align: center;
+	padding: 0px;
+}
+.action {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+ button{
+	background-color:  #372AE0;
+	width: 80%;
+	padding: 0px;
+	color: white;
+	margin: 0px;
+	font-size: 16px;
+	border-radius: 15px;
+	height: 42pt;
+	}
+.cancle {
+	align-items: center;
+	display: flex;
+	justify-content: center;
+	padding-top: 10px;
+
+}
+a{
+	text-decoration: none;
+	font-size: 14pt;
+	color: #D2D7E3;
+}
